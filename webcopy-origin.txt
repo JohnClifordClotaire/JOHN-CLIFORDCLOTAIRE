@@ -1,0 +1,580 @@
+Uri: https://www.casami.eng.br/
+File Name: D:\Site\www.casami.eng.br\index.htm
+Content Type: text/html
+
+Uri: https://www.casami.eng.br/?email=webmail
+File Name: D:\Site\www.casami.eng.br\index-1.htm
+Content Type: text/html
+
+Uri: https://www.casami.eng.br/comments/feed/
+File Name: D:\Site\www.casami.eng.br\comments\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://www.casami.eng.br/contato/
+File Name: D:\Site\www.casami.eng.br\contato\index.htm
+Content Type: text/html
+
+Uri: https://www.casami.eng.br/empresa/
+File Name: D:\Site\www.casami.eng.br\empresa\index.htm
+Content Type: text/html
+
+Uri: https://www.casami.eng.br/feed/
+File Name: D:\Site\www.casami.eng.br\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://www.casami.eng.br/servicos/
+File Name: D:\Site\www.casami.eng.br\servicos\index.htm
+Content Type: text/html
+
+Uri: https://www.casami.eng.br/servicos/desmembramento-de-terreno/
+File Name: D:\Site\www.casami.eng.br\servicos\desmembramento-de-terreno\index.htm
+Content Type: text/html
+
+Uri: https://www.casami.eng.br/servicos/inspecao-predial-nbr-16747/
+File Name: D:\Site\www.casami.eng.br\servicos\inspecao-predial-nbr-16747\index.htm
+Content Type: text/html
+
+Uri: https://www.casami.eng.br/servicos/laudo-de-avaliacao-de-bens/
+File Name: D:\Site\www.casami.eng.br\servicos\laudo-de-avaliacao-de-bens\index.htm
+Content Type: text/html
+
+Uri: https://www.casami.eng.br/servicos/laudo-de-fachada-com-drone/
+File Name: D:\Site\www.casami.eng.br\servicos\laudo-de-fachada-com-drone\index.htm
+Content Type: text/html
+
+Uri: https://www.casami.eng.br/servicos/laudo-de-recebimento-de-areas-comuns-e-garantia/
+File Name: D:\Site\www.casami.eng.br\servicos\laudo-de-recebimento-de-areas-comuns-e-garantia\index.htm
+Content Type: text/html
+
+Uri: https://www.casami.eng.br/servicos/laudos-de-engenharia/
+File Name: D:\Site\www.casami.eng.br\servicos\laudos-de-engenharia\index.htm
+Content Type: text/html
+
+Uri: https://www.casami.eng.br/servicos/licenca-de-funcionamento/
+File Name: D:\Site\www.casami.eng.br\servicos\licenca-de-funcionamento\index.htm
+Content Type: text/html
+
+Uri: https://www.casami.eng.br/servicos/perito-e-assistente-tecnico-judicial/
+File Name: D:\Site\www.casami.eng.br\servicos\perito-e-assistente-tecnico-judicial\index.htm
+Content Type: text/html
+
+Uri: https://www.casami.eng.br/servicos/projeto-e-assessoria-de-financiamento-de-construcao/
+File Name: D:\Site\www.casami.eng.br\servicos\projeto-e-assessoria-de-financiamento-de-construcao\index.htm
+Content Type: text/html
+
+Uri: https://www.casami.eng.br/servicos/regularizacao-de-imoveis/
+File Name: D:\Site\www.casami.eng.br\servicos\regularizacao-de-imoveis\index.htm
+Content Type: text/html
+
+Uri: https://www.casami.eng.br/wp-content/plugins/aria/imagens/whatsapp-chat.png
+File Name: D:\Site\www.casami.eng.br\wp-content\plugins\aria\imagens\whatsapp-chat.png
+Content Type: image/png
+
+Uri: https://www.casami.eng.br/wp-content/plugins/aria/js/jquery.whatsapp.js
+File Name: D:\Site\www.casami.eng.br\wp-content\plugins\aria\js\jquery.whatsapp.js
+Content Type: application/javascript
+
+Uri: https://www.casami.eng.br/wp-content/plugins/aria/style/whatsapp.css
+File Name: D:\Site\www.casami.eng.br\wp-content\plugins\aria\style\whatsapp.css
+Content Type: text/css
+
+Uri: https://www.casami.eng.br/wp-content/themes/enfold/config-gutenberg/js/avia_blocks_front.js?ver=5.5
+File Name: D:\Site\www.casami.eng.br\wp-content\themes\enfold\config-gutenberg\js\avia_blocks_front.js
+Content Type: application/javascript
+
+Uri: https://www.casami.eng.br/wp-content/themes/enfold/config-lottie-animations/assets/lottie-player/dotlottie-player.js?ver=5.5
+File Name: D:\Site\www.casami.eng.br\wp-content\themes\enfold\config-lottie-animations\assets\lottie-player\dotlottie-player.js
+Content Type: application/javascript
+
+Uri: https://www.casami.eng.br/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/audio-player/audio-player.js?ver=5.5
+File Name: D:\Site\www.casami.eng.br\wp-content\themes\enfold\config-templatebuilder\avia-shortcodes\audio-player\audio-player.js
+Content Type: application/javascript
+
+Uri: https://www.casami.eng.br/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/chart/chart-js.min.js?ver=5.5
+File Name: D:\Site\www.casami.eng.br\wp-content\themes\enfold\config-templatebuilder\avia-shortcodes\chart\chart-js.min.js
+Content Type: application/javascript
+
+Uri: https://www.casami.eng.br/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/chart/chart.js?ver=5.5
+File Name: D:\Site\www.casami.eng.br\wp-content\themes\enfold\config-templatebuilder\avia-shortcodes\chart\chart.js
+Content Type: application/javascript
+
+Uri: https://www.casami.eng.br/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/contact/contact.js?ver=5.5
+File Name: D:\Site\www.casami.eng.br\wp-content\themes\enfold\config-templatebuilder\avia-shortcodes\contact\contact.js
+Content Type: application/javascript
+
+Uri: https://www.casami.eng.br/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/countdown/countdown.js?ver=5.5
+File Name: D:\Site\www.casami.eng.br\wp-content\themes\enfold\config-templatebuilder\avia-shortcodes\countdown\countdown.js
+Content Type: application/javascript
+
+Uri: https://www.casami.eng.br/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/gallery/gallery.js?ver=5.5
+File Name: D:\Site\www.casami.eng.br\wp-content\themes\enfold\config-templatebuilder\avia-shortcodes\gallery\gallery.js
+Content Type: application/javascript
+
+Uri: https://www.casami.eng.br/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/gallery_horizontal/gallery_horizontal.js?ver=5.5
+File Name: D:\Site\www.casami.eng.br\wp-content\themes\enfold\config-templatebuilder\avia-shortcodes\gallery_horizontal\gallery_horizontal.js
+Content Type: application/javascript
+
+Uri: https://www.casami.eng.br/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/headline_rotator/headline_rotator.js?ver=5.5
+File Name: D:\Site\www.casami.eng.br\wp-content\themes\enfold\config-templatebuilder\avia-shortcodes\headline_rotator\headline_rotator.js
+Content Type: application/javascript
+
+Uri: https://www.casami.eng.br/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/icongrid/icongrid.js?ver=5.5
+File Name: D:\Site\www.casami.eng.br\wp-content\themes\enfold\config-templatebuilder\avia-shortcodes\icongrid\icongrid.js
+Content Type: application/javascript
+
+Uri: https://www.casami.eng.br/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/iconlist/iconlist.js?ver=5.5
+File Name: D:\Site\www.casami.eng.br\wp-content\themes\enfold\config-templatebuilder\avia-shortcodes\iconlist\iconlist.js
+Content Type: application/javascript
+
+Uri: https://www.casami.eng.br/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/icon_circles/icon_circles.js?ver=5.5
+File Name: D:\Site\www.casami.eng.br\wp-content\themes\enfold\config-templatebuilder\avia-shortcodes\icon_circles\icon_circles.js
+Content Type: application/javascript
+
+Uri: https://www.casami.eng.br/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/image_diff/image_diff.js?ver=5.5
+File Name: D:\Site\www.casami.eng.br\wp-content\themes\enfold\config-templatebuilder\avia-shortcodes\image_diff\image_diff.js
+Content Type: application/javascript
+
+Uri: https://www.casami.eng.br/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/image_hotspots/image_hotspots.js?ver=5.5
+File Name: D:\Site\www.casami.eng.br\wp-content\themes\enfold\config-templatebuilder\avia-shortcodes\image_hotspots\image_hotspots.js
+Content Type: application/javascript
+
+Uri: https://www.casami.eng.br/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/lottie_animation/lottie_animation.js?ver=5.5
+File Name: D:\Site\www.casami.eng.br\wp-content\themes\enfold\config-templatebuilder\avia-shortcodes\lottie_animation\lottie_animation.js
+Content Type: application/javascript
+
+Uri: https://www.casami.eng.br/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/masonry_entries/masonry_entries.js?ver=5.5
+File Name: D:\Site\www.casami.eng.br\wp-content\themes\enfold\config-templatebuilder\avia-shortcodes\masonry_entries\masonry_entries.js
+Content Type: application/javascript
+
+Uri: https://www.casami.eng.br/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/menu/menu.js?ver=5.5
+File Name: D:\Site\www.casami.eng.br\wp-content\themes\enfold\config-templatebuilder\avia-shortcodes\menu\menu.js
+Content Type: application/javascript
+
+Uri: https://www.casami.eng.br/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/notification/notification.js?ver=5.5
+File Name: D:\Site\www.casami.eng.br\wp-content\themes\enfold\config-templatebuilder\avia-shortcodes\notification\notification.js
+Content Type: application/javascript
+
+Uri: https://www.casami.eng.br/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/numbers/numbers.js?ver=5.5
+File Name: D:\Site\www.casami.eng.br\wp-content\themes\enfold\config-templatebuilder\avia-shortcodes\numbers\numbers.js
+Content Type: application/javascript
+
+Uri: https://www.casami.eng.br/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/portfolio/isotope.min.js?ver=5.5
+File Name: D:\Site\www.casami.eng.br\wp-content\themes\enfold\config-templatebuilder\avia-shortcodes\portfolio\isotope.min.js
+Content Type: application/javascript
+
+Uri: https://www.casami.eng.br/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/progressbar/progressbar.js?ver=5.5
+File Name: D:\Site\www.casami.eng.br\wp-content\themes\enfold\config-templatebuilder\avia-shortcodes\progressbar\progressbar.js
+Content Type: application/javascript
+
+Uri: https://www.casami.eng.br/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/slideshow/slideshow-video.js?ver=5.5
+File Name: D:\Site\www.casami.eng.br\wp-content\themes\enfold\config-templatebuilder\avia-shortcodes\slideshow\slideshow-video.js
+Content Type: application/javascript
+
+Uri: https://www.casami.eng.br/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/slideshow/slideshow.js?ver=5.5
+File Name: D:\Site\www.casami.eng.br\wp-content\themes\enfold\config-templatebuilder\avia-shortcodes\slideshow\slideshow.js
+Content Type: application/javascript
+
+Uri: https://www.casami.eng.br/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/slideshow_accordion/slideshow_accordion.js?ver=5.5
+File Name: D:\Site\www.casami.eng.br\wp-content\themes\enfold\config-templatebuilder\avia-shortcodes\slideshow_accordion\slideshow_accordion.js
+Content Type: application/javascript
+
+Uri: https://www.casami.eng.br/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/slideshow_fullscreen/slideshow_fullscreen.js?ver=5.5
+File Name: D:\Site\www.casami.eng.br\wp-content\themes\enfold\config-templatebuilder\avia-shortcodes\slideshow_fullscreen\slideshow_fullscreen.js
+Content Type: application/javascript
+
+Uri: https://www.casami.eng.br/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/tabs/tabs.js?ver=5.5
+File Name: D:\Site\www.casami.eng.br\wp-content\themes\enfold\config-templatebuilder\avia-shortcodes\tabs\tabs.js
+Content Type: application/javascript
+
+Uri: https://www.casami.eng.br/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/tab_section/tab_section.js?ver=5.5
+File Name: D:\Site\www.casami.eng.br\wp-content\themes\enfold\config-templatebuilder\avia-shortcodes\tab_section\tab_section.js
+Content Type: application/javascript
+
+Uri: https://www.casami.eng.br/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/testimonials/testimonials.js?ver=5.5
+File Name: D:\Site\www.casami.eng.br\wp-content\themes\enfold\config-templatebuilder\avia-shortcodes\testimonials\testimonials.js
+Content Type: application/javascript
+
+Uri: https://www.casami.eng.br/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/timeline/timeline.js?ver=5.5
+File Name: D:\Site\www.casami.eng.br\wp-content\themes\enfold\config-templatebuilder\avia-shortcodes\timeline\timeline.js
+Content Type: application/javascript
+
+Uri: https://www.casami.eng.br/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/toggles/toggles.js?ver=5.5
+File Name: D:\Site\www.casami.eng.br\wp-content\themes\enfold\config-templatebuilder\avia-shortcodes\toggles\toggles.js
+Content Type: application/javascript
+
+Uri: https://www.casami.eng.br/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/video/video.js?ver=5.5
+File Name: D:\Site\www.casami.eng.br\wp-content\themes\enfold\config-templatebuilder\avia-shortcodes\video\video.js
+Content Type: application/javascript
+
+Uri: https://www.casami.eng.br/wp-content/themes/enfold/config-templatebuilder/avia-template-builder/assets/fonts/entypo-fontello.eot
+File Name: D:\Site\www.casami.eng.br\wp-content\themes\enfold\config-templatebuilder\avia-template-builder\assets\fonts\entypo-fontello.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://www.casami.eng.br/wp-content/themes/enfold/config-templatebuilder/avia-template-builder/assets/fonts/entypo-fontello.eot?
+File Name: D:\Site\www.casami.eng.br\wp-content\themes\enfold\config-templatebuilder\avia-template-builder\assets\fonts\entypo-fontello-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://www.casami.eng.br/wp-content/themes/enfold/config-templatebuilder/avia-template-builder/assets/fonts/entypo-fontello.svg
+File Name: D:\Site\www.casami.eng.br\wp-content\themes\enfold\config-templatebuilder\avia-template-builder\assets\fonts\entypo-fontello.svg
+Content Type: image/svg+xml
+
+Uri: https://www.casami.eng.br/wp-content/themes/enfold/config-templatebuilder/avia-template-builder/assets/fonts/entypo-fontello.ttf
+File Name: D:\Site\www.casami.eng.br\wp-content\themes\enfold\config-templatebuilder\avia-template-builder\assets\fonts\entypo-fontello.ttf
+Content Type: font/ttf
+
+Uri: https://www.casami.eng.br/wp-content/themes/enfold/config-templatebuilder/avia-template-builder/assets/fonts/entypo-fontello.woff
+File Name: D:\Site\www.casami.eng.br\wp-content\themes\enfold\config-templatebuilder\avia-template-builder\assets\fonts\entypo-fontello.woff
+Content Type: font/woff
+
+Uri: https://www.casami.eng.br/wp-content/themes/enfold/config-templatebuilder/avia-template-builder/assets/fonts/entypo-fontello.woff2
+File Name: D:\Site\www.casami.eng.br\wp-content\themes\enfold\config-templatebuilder\avia-template-builder\assets\fonts\entypo-fontello.woff2
+Content Type: font/woff2
+
+Uri: https://www.casami.eng.br/wp-content/themes/enfold/framework/js/conditional_load/avia_google_maps_front.js?ver=5.5
+File Name: D:\Site\www.casami.eng.br\wp-content\themes\enfold\framework\js\conditional_load\avia_google_maps_front.js
+Content Type: application/javascript
+
+Uri: https://www.casami.eng.br/wp-content/themes/enfold/images/background-images/diagonal-bold-dark.png
+File Name: D:\Site\www.casami.eng.br\wp-content\themes\enfold\images\background-images\diagonal-bold-dark.png
+Content Type: image/png
+
+Uri: https://www.casami.eng.br/wp-content/themes/enfold/images/background-images/diagonal-bold-light.png
+File Name: D:\Site\www.casami.eng.br\wp-content\themes\enfold\images\background-images\diagonal-bold-light.png
+Content Type: image/png
+
+Uri: https://www.casami.eng.br/wp-content/themes/enfold/images/layout/fake_facebook.jpg
+File Name: D:\Site\www.casami.eng.br\wp-content\themes\enfold\images\layout\fake_facebook.jpg
+Content Type: image/jpeg
+
+Uri: https://www.casami.eng.br/wp-content/themes/enfold/images/layout/loading.gif
+File Name: D:\Site\www.casami.eng.br\wp-content\themes\enfold\images\layout\loading.gif
+Content Type: image/gif
+
+Uri: https://www.casami.eng.br/wp-content/themes/enfold/js/avia-compat.js?ver=5.5
+File Name: D:\Site\www.casami.eng.br\wp-content\themes\enfold\js\avia-compat.js
+Content Type: application/javascript
+
+Uri: https://www.casami.eng.br/wp-content/themes/enfold/js/avia-snippet-cookieconsent.js?ver=5.5
+File Name: D:\Site\www.casami.eng.br\wp-content\themes\enfold\js\avia-snippet-cookieconsent.js
+Content Type: application/javascript
+
+Uri: https://www.casami.eng.br/wp-content/themes/enfold/js/avia-snippet-footer-effects.js?ver=5.5
+File Name: D:\Site\www.casami.eng.br\wp-content\themes\enfold\js\avia-snippet-footer-effects.js
+Content Type: application/javascript
+
+Uri: https://www.casami.eng.br/wp-content/themes/enfold/js/avia-snippet-hamburger-menu.js?ver=5.5
+File Name: D:\Site\www.casami.eng.br\wp-content\themes\enfold\js\avia-snippet-hamburger-menu.js
+Content Type: application/javascript
+
+Uri: https://www.casami.eng.br/wp-content/themes/enfold/js/avia-snippet-lightbox.js?ver=5.5
+File Name: D:\Site\www.casami.eng.br\wp-content\themes\enfold\js\avia-snippet-lightbox.js
+Content Type: application/javascript
+
+Uri: https://www.casami.eng.br/wp-content/themes/enfold/js/avia-snippet-parallax.js?ver=5.5
+File Name: D:\Site\www.casami.eng.br\wp-content\themes\enfold\js\avia-snippet-parallax.js
+Content Type: application/javascript
+
+Uri: https://www.casami.eng.br/wp-content/themes/enfold/js/avia-snippet-sticky-header.js?ver=5.5
+File Name: D:\Site\www.casami.eng.br\wp-content\themes\enfold\js\avia-snippet-sticky-header.js
+Content Type: application/javascript
+
+Uri: https://www.casami.eng.br/wp-content/themes/enfold/js/avia-snippet-widget.js?ver=5.5
+File Name: D:\Site\www.casami.eng.br\wp-content\themes\enfold\js\avia-snippet-widget.js
+Content Type: application/javascript
+
+Uri: https://www.casami.eng.br/wp-content/themes/enfold/js/avia.js?ver=5.5
+File Name: D:\Site\www.casami.eng.br\wp-content\themes\enfold\js\avia.js
+Content Type: application/javascript
+
+Uri: https://www.casami.eng.br/wp-content/themes/enfold/js/aviapopup/jquery.magnific-popup.min.js?ver=5.5
+File Name: D:\Site\www.casami.eng.br\wp-content\themes\enfold\js\aviapopup\jquery.magnific-popup.min.js
+Content Type: application/javascript
+
+Uri: https://www.casami.eng.br/wp-content/themes/enfold/js/shortcodes.js?ver=5.5
+File Name: D:\Site\www.casami.eng.br\wp-content\themes\enfold\js\shortcodes.js
+Content Type: application/javascript
+
+Uri: https://www.casami.eng.br/wp-content/themes/enfold/js/waypoints/waypoints.min.js?ver=5.5
+File Name: D:\Site\www.casami.eng.br\wp-content\themes\enfold\js\waypoints\waypoints.min.js
+Content Type: application/javascript
+
+Uri: https://www.casami.eng.br/wp-content/uploads/sites/11/2017/12/WHATS.png
+File Name: D:\Site\www.casami.eng.br\wp-content\uploads\sites\11\2017\12\WHATS.png
+Content Type: image/png
+
+Uri: https://www.casami.eng.br/wp-content/uploads/sites/4130/2023/01/1-2-e1673385687179-1500x630.jpg
+File Name: D:\Site\www.casami.eng.br\wp-content\uploads\sites\4130\2023\01\1-2-e1673385687179-1500x630.jpg
+Content Type: image/jpeg
+
+Uri: https://www.casami.eng.br/wp-content/uploads/sites/4130/2023/01/1-400x180.jpg
+File Name: D:\Site\www.casami.eng.br\wp-content\uploads\sites\4130\2023\01\1-400x180.jpg
+Content Type: image/jpeg
+
+Uri: https://www.casami.eng.br/wp-content/uploads/sites/4130/2023/01/1-495x400.jpg
+File Name: D:\Site\www.casami.eng.br\wp-content\uploads\sites\4130\2023\01\1-495x400.jpg
+Content Type: image/jpeg
+
+Uri: https://www.casami.eng.br/wp-content/uploads/sites/4130/2023/01/1-845x684.jpg
+File Name: D:\Site\www.casami.eng.br\wp-content\uploads\sites\4130\2023\01\1-845x684.jpg
+Content Type: image/jpeg
+
+Uri: https://www.casami.eng.br/wp-content/uploads/sites/4130/2023/01/2-1-400x180.jpg
+File Name: D:\Site\www.casami.eng.br\wp-content\uploads\sites\4130\2023\01\2-1-400x180.jpg
+Content Type: image/jpeg
+
+Uri: https://www.casami.eng.br/wp-content/uploads/sites/4130/2023/01/2-1-495x400.jpg
+File Name: D:\Site\www.casami.eng.br\wp-content\uploads\sites\4130\2023\01\2-1-495x400.jpg
+Content Type: image/jpeg
+
+Uri: https://www.casami.eng.br/wp-content/uploads/sites/4130/2023/01/2-1-845x684.jpg
+File Name: D:\Site\www.casami.eng.br\wp-content\uploads\sites\4130\2023\01\2-1-845x684.jpg
+Content Type: image/jpeg
+
+Uri: https://www.casami.eng.br/wp-content/uploads/sites/4130/2023/01/2-400x180.jpg
+File Name: D:\Site\www.casami.eng.br\wp-content\uploads\sites\4130\2023\01\2-400x180.jpg
+Content Type: image/jpeg
+
+Uri: https://www.casami.eng.br/wp-content/uploads/sites/4130/2023/01/2-495x400.jpg
+File Name: D:\Site\www.casami.eng.br\wp-content\uploads\sites\4130\2023\01\2-495x400.jpg
+Content Type: image/jpeg
+
+Uri: https://www.casami.eng.br/wp-content/uploads/sites/4130/2023/01/2-845x684.jpg
+File Name: D:\Site\www.casami.eng.br\wp-content\uploads\sites\4130\2023\01\2-845x684.jpg
+Content Type: image/jpeg
+
+Uri: https://www.casami.eng.br/wp-content/uploads/sites/4130/2023/01/3-5-400x180.jpg
+File Name: D:\Site\www.casami.eng.br\wp-content\uploads\sites\4130\2023\01\3-5-400x180.jpg
+Content Type: image/jpeg
+
+Uri: https://www.casami.eng.br/wp-content/uploads/sites/4130/2023/01/4-2-400x180.jpg
+File Name: D:\Site\www.casami.eng.br\wp-content\uploads\sites\4130\2023\01\4-2-400x180.jpg
+Content Type: image/jpeg
+
+Uri: https://www.casami.eng.br/wp-content/uploads/sites/4130/2023/01/4-2-495x400.jpg
+File Name: D:\Site\www.casami.eng.br\wp-content\uploads\sites\4130\2023\01\4-2-495x400.jpg
+Content Type: image/jpeg
+
+Uri: https://www.casami.eng.br/wp-content/uploads/sites/4130/2023/01/4-2-845x684.jpg
+File Name: D:\Site\www.casami.eng.br\wp-content\uploads\sites\4130\2023\01\4-2-845x684.jpg
+Content Type: image/jpeg
+
+Uri: https://www.casami.eng.br/wp-content/uploads/sites/4130/2023/01/4-400x180.jpg
+File Name: D:\Site\www.casami.eng.br\wp-content\uploads\sites\4130\2023\01\4-400x180.jpg
+Content Type: image/jpeg
+
+Uri: https://www.casami.eng.br/wp-content/uploads/sites/4130/2023/01/4-495x400.jpg
+File Name: D:\Site\www.casami.eng.br\wp-content\uploads\sites\4130\2023\01\4-495x400.jpg
+Content Type: image/jpeg
+
+Uri: https://www.casami.eng.br/wp-content/uploads/sites/4130/2023/01/4-845x684.jpg
+File Name: D:\Site\www.casami.eng.br\wp-content\uploads\sites\4130\2023\01\4-845x684.jpg
+Content Type: image/jpeg
+
+Uri: https://www.casami.eng.br/wp-content/uploads/sites/4130/2023/01/a-2-400x180.jpg
+File Name: D:\Site\www.casami.eng.br\wp-content\uploads\sites\4130\2023\01\a-2-400x180.jpg
+Content Type: image/jpeg
+
+Uri: https://www.casami.eng.br/wp-content/uploads/sites/4130/2023/01/a-2-495x400.jpg
+File Name: D:\Site\www.casami.eng.br\wp-content\uploads\sites\4130\2023\01\a-2-495x400.jpg
+Content Type: image/jpeg
+
+Uri: https://www.casami.eng.br/wp-content/uploads/sites/4130/2023/01/a-2-845x684.jpg
+File Name: D:\Site\www.casami.eng.br\wp-content\uploads\sites\4130\2023\01\a-2-845x684.jpg
+Content Type: image/jpeg
+
+Uri: https://www.casami.eng.br/wp-content/uploads/sites/4130/2023/01/a-3-400x180.jpg
+File Name: D:\Site\www.casami.eng.br\wp-content\uploads\sites\4130\2023\01\a-3-400x180.jpg
+Content Type: image/jpeg
+
+Uri: https://www.casami.eng.br/wp-content/uploads/sites/4130/2023/01/a-3-495x400.jpg
+File Name: D:\Site\www.casami.eng.br\wp-content\uploads\sites\4130\2023\01\a-3-495x400.jpg
+Content Type: image/jpeg
+
+Uri: https://www.casami.eng.br/wp-content/uploads/sites/4130/2023/01/a-3-845x684.jpg
+File Name: D:\Site\www.casami.eng.br\wp-content\uploads\sites\4130\2023\01\a-3-845x684.jpg
+Content Type: image/jpeg
+
+Uri: https://www.casami.eng.br/wp-content/uploads/sites/4130/2023/01/a-4-400x180.jpg
+File Name: D:\Site\www.casami.eng.br\wp-content\uploads\sites\4130\2023\01\a-4-400x180.jpg
+Content Type: image/jpeg
+
+Uri: https://www.casami.eng.br/wp-content/uploads/sites/4130/2023/01/a-4-495x400.jpg
+File Name: D:\Site\www.casami.eng.br\wp-content\uploads\sites\4130\2023\01\a-4-495x400.jpg
+Content Type: image/jpeg
+
+Uri: https://www.casami.eng.br/wp-content/uploads/sites/4130/2023/01/a-4-845x684.jpg
+File Name: D:\Site\www.casami.eng.br\wp-content\uploads\sites\4130\2023\01\a-4-845x684.jpg
+Content Type: image/jpeg
+
+Uri: https://www.casami.eng.br/wp-content/uploads/sites/4130/2023/01/a-400x180.jpg
+File Name: D:\Site\www.casami.eng.br\wp-content\uploads\sites\4130\2023\01\a-400x180.jpg
+Content Type: image/jpeg
+
+Uri: https://www.casami.eng.br/wp-content/uploads/sites/4130/2023/01/a-495x400.jpg
+File Name: D:\Site\www.casami.eng.br\wp-content\uploads\sites\4130\2023\01\a-495x400.jpg
+Content Type: image/jpeg
+
+Uri: https://www.casami.eng.br/wp-content/uploads/sites/4130/2023/01/a-845x684.jpg
+File Name: D:\Site\www.casami.eng.br\wp-content\uploads\sites\4130\2023\01\a-845x684.jpg
+Content Type: image/jpeg
+
+Uri: https://www.casami.eng.br/wp-content/uploads/sites/4130/2023/01/b-1-400x180.jpg
+File Name: D:\Site\www.casami.eng.br\wp-content\uploads\sites\4130\2023\01\b-1-400x180.jpg
+Content Type: image/jpeg
+
+Uri: https://www.casami.eng.br/wp-content/uploads/sites/4130/2023/01/b-1.jpg
+File Name: D:\Site\www.casami.eng.br\wp-content\uploads\sites\4130\2023\01\b-1.jpg
+Content Type: image/jpeg
+
+Uri: https://www.casami.eng.br/wp-content/uploads/sites/4130/2023/01/b-1500x630.jpg
+File Name: D:\Site\www.casami.eng.br\wp-content\uploads\sites\4130\2023\01\b-1500x630.jpg
+Content Type: image/jpeg
+
+Uri: https://www.casami.eng.br/wp-content/uploads/sites/4130/2023/01/b1-400x180.png
+File Name: D:\Site\www.casami.eng.br\wp-content\uploads\sites\4130\2023\01\b1-400x180.png
+Content Type: image/png
+
+Uri: https://www.casami.eng.br/wp-content/uploads/sites/4130/2023/01/b1-495x400.png
+File Name: D:\Site\www.casami.eng.br\wp-content\uploads\sites\4130\2023\01\b1-495x400.png
+Content Type: image/png
+
+Uri: https://www.casami.eng.br/wp-content/uploads/sites/4130/2023/01/b1-845x684.png
+File Name: D:\Site\www.casami.eng.br\wp-content\uploads\sites\4130\2023\01\b1-845x684.png
+Content Type: image/png
+
+Uri: https://www.casami.eng.br/wp-content/uploads/sites/4130/2023/01/e-400x180.jpg
+File Name: D:\Site\www.casami.eng.br\wp-content\uploads\sites\4130\2023\01\e-400x180.jpg
+Content Type: image/jpeg
+
+Uri: https://www.casami.eng.br/wp-content/uploads/sites/4130/2023/01/e-495x400.jpg
+File Name: D:\Site\www.casami.eng.br\wp-content\uploads\sites\4130\2023\01\e-495x400.jpg
+Content Type: image/jpeg
+
+Uri: https://www.casami.eng.br/wp-content/uploads/sites/4130/2023/01/e-845x684.jpg
+File Name: D:\Site\www.casami.eng.br\wp-content\uploads\sites\4130\2023\01\e-845x684.jpg
+Content Type: image/jpeg
+
+Uri: https://www.casami.eng.br/wp-content/uploads/sites/4130/2023/01/favicon-180x180.jpg
+File Name: D:\Site\www.casami.eng.br\wp-content\uploads\sites\4130\2023\01\favicon-180x180.jpg
+Content Type: image/jpeg
+
+Uri: https://www.casami.eng.br/wp-content/uploads/sites/4130/2023/01/favicon-32x32.jpg
+File Name: D:\Site\www.casami.eng.br\wp-content\uploads\sites\4130\2023\01\favicon-32x32.jpg
+Content Type: image/jpeg
+
+Uri: https://www.casami.eng.br/wp-content/uploads/sites/4130/2023/01/logo-600x600.png
+File Name: D:\Site\www.casami.eng.br\wp-content\uploads\sites\4130\2023\01\logo-600x600.png
+Content Type: image/png
+
+Uri: https://www.casami.eng.br/wp-content/uploads/sites/4130/dynamic_avia/1
+File Name: D:\Site\www.casami.eng.br\wp-content\uploads\sites\4130\dynamic_avia\1
+Content Type: 
+
+Uri: https://www.casami.eng.br/wp-content/uploads/sites/4130/dynamic_avia/avia-merged-styles-20a613adfda6c71e3d6cbef15b1e77bd---6490ecb3aba87.css
+File Name: D:\Site\www.casami.eng.br\wp-content\uploads\sites\4130\dynamic_avia\avia-merged-styles-20a613adfda6c71e3d6cbef15b1e77bd---6490ecb3aba87.css
+Content Type: text/css
+
+Uri: https://www.casami.eng.br/wp-content/uploads/sites/4130/dynamic_avia/avia_posts_css/post-15.css?ver=ver-1687314032
+File Name: D:\Site\www.casami.eng.br\wp-content\uploads\sites\4130\dynamic_avia\avia_posts_css\post-15.css
+Content Type: text/css
+
+Uri: https://www.casami.eng.br/wp-content/uploads/sites/4130/dynamic_avia/avia_posts_css/post-16.css?ver=ver-1687221350
+File Name: D:\Site\www.casami.eng.br\wp-content\uploads\sites\4130\dynamic_avia\avia_posts_css\post-16.css
+Content Type: text/css
+
+Uri: https://www.casami.eng.br/wp-content/uploads/sites/4130/dynamic_avia/avia_posts_css/post-165.css?ver=ver-1687894790
+File Name: D:\Site\www.casami.eng.br\wp-content\uploads\sites\4130\dynamic_avia\avia_posts_css\post-165.css
+Content Type: text/css
+
+Uri: https://www.casami.eng.br/wp-content/uploads/sites/4130/dynamic_avia/avia_posts_css/post-166.css?ver=ver-1687433492
+File Name: D:\Site\www.casami.eng.br\wp-content\uploads\sites\4130\dynamic_avia\avia_posts_css\post-166.css
+Content Type: text/css
+
+Uri: https://www.casami.eng.br/wp-content/uploads/sites/4130/dynamic_avia/avia_posts_css/post-167.css?ver=ver-1687841651
+File Name: D:\Site\www.casami.eng.br\wp-content\uploads\sites\4130\dynamic_avia\avia_posts_css\post-167.css
+Content Type: text/css
+
+Uri: https://www.casami.eng.br/wp-content/uploads/sites/4130/dynamic_avia/avia_posts_css/post-168.css?ver=ver-1687434863
+File Name: D:\Site\www.casami.eng.br\wp-content\uploads\sites\4130\dynamic_avia\avia_posts_css\post-168.css
+Content Type: text/css
+
+Uri: https://www.casami.eng.br/wp-content/uploads/sites/4130/dynamic_avia/avia_posts_css/post-169.css?ver=ver-1687802322
+File Name: D:\Site\www.casami.eng.br\wp-content\uploads\sites\4130\dynamic_avia\avia_posts_css\post-169.css
+Content Type: text/css
+
+Uri: https://www.casami.eng.br/wp-content/uploads/sites/4130/dynamic_avia/avia_posts_css/post-17.css?ver=ver-1687219379
+File Name: D:\Site\www.casami.eng.br\wp-content\uploads\sites\4130\dynamic_avia\avia_posts_css\post-17.css
+Content Type: text/css
+
+Uri: https://www.casami.eng.br/wp-content/uploads/sites/4130/dynamic_avia/avia_posts_css/post-170.css?ver=ver-1691373668
+File Name: D:\Site\www.casami.eng.br\wp-content\uploads\sites\4130\dynamic_avia\avia_posts_css\post-170.css
+Content Type: text/css
+
+Uri: https://www.casami.eng.br/wp-content/uploads/sites/4130/dynamic_avia/avia_posts_css/post-171.css?ver=ver-1688755718
+File Name: D:\Site\www.casami.eng.br\wp-content\uploads\sites\4130\dynamic_avia\avia_posts_css\post-171.css
+Content Type: text/css
+
+Uri: https://www.casami.eng.br/wp-content/uploads/sites/4130/dynamic_avia/avia_posts_css/post-172.css?ver=ver-1687661005
+File Name: D:\Site\www.casami.eng.br\wp-content\uploads\sites\4130\dynamic_avia\avia_posts_css\post-172.css
+Content Type: text/css
+
+Uri: https://www.casami.eng.br/wp-content/uploads/sites/4130/dynamic_avia/avia_posts_css/post-173.css?ver=ver-1687434019
+File Name: D:\Site\www.casami.eng.br\wp-content\uploads\sites\4130\dynamic_avia\avia_posts_css\post-173.css
+Content Type: text/css
+
+Uri: https://www.casami.eng.br/wp-content/uploads/sites/4130/dynamic_avia/avia_posts_css/post-174.css?ver=ver-1687324817
+File Name: D:\Site\www.casami.eng.br\wp-content\uploads\sites\4130\dynamic_avia\avia_posts_css\post-174.css
+Content Type: text/css
+
+Uri: https://www.casami.eng.br/wp-content/uploads/sites/4130/dynamic_avia/avia_posts_css/post-6.css?ver=ver-1687219593
+File Name: D:\Site\www.casami.eng.br\wp-content\uploads\sites\4130\dynamic_avia\avia_posts_css\post-6.css
+Content Type: text/css
+
+Uri: https://www.casami.eng.br/wp-includes/css/dist/block-library/style.min.css?ver=6.2.2
+File Name: D:\Site\www.casami.eng.br\wp-includes\css\dist\block-library\style.min.css
+Content Type: text/css
+
+Uri: https://www.casami.eng.br/wp-includes/js/jquery/jquery.js?ver=1.12.4-wp
+File Name: D:\Site\www.casami.eng.br\wp-includes\js\jquery\jquery.js
+Content Type: application/javascript
+
+Uri: https://www.casami.eng.br/wp-includes/js/jquery/jquery.min.js?ver=3.6.4
+File Name: D:\Site\www.casami.eng.br\wp-includes\js\jquery\jquery.min.js
+Content Type: application/javascript
+
+Uri: https://www.casami.eng.br/wp-includes/js/mediaelement/mediaelement-and-player.min.js?ver=4.2.17
+File Name: D:\Site\www.casami.eng.br\wp-includes\js\mediaelement\mediaelement-and-player.min.js
+Content Type: application/javascript
+
+Uri: https://www.casami.eng.br/wp-includes/js/mediaelement/mediaelement-migrate.min.js?ver=6.2.2
+File Name: D:\Site\www.casami.eng.br\wp-includes\js\mediaelement\mediaelement-migrate.min.js
+Content Type: application/javascript
+
+Uri: https://www.casami.eng.br/wp-includes/js/mediaelement/mediaelementplayer-legacy.min.css?ver=4.2.17
+File Name: D:\Site\www.casami.eng.br\wp-includes\js\mediaelement\mediaelementplayer-legacy.min.css
+Content Type: text/css
+
+Uri: https://www.casami.eng.br/wp-includes/js/mediaelement/mejs-controls.svg
+File Name: D:\Site\www.casami.eng.br\wp-includes\js\mediaelement\mejs-controls.svg
+Content Type: image/svg+xml
+
+Uri: https://www.casami.eng.br/wp-includes/js/mediaelement/wp-mediaelement.min.css?ver=6.2.2
+File Name: D:\Site\www.casami.eng.br\wp-includes\js\mediaelement\wp-mediaelement.min.css
+Content Type: text/css
+
+Uri: https://www.casami.eng.br/wp-includes/js/mediaelement/wp-mediaelement.min.js?ver=6.2.2
+File Name: D:\Site\www.casami.eng.br\wp-includes\js\mediaelement\wp-mediaelement.min.js
+Content Type: application/javascript
+
+Uri: https://www.casami.eng.br/wp-includes/js/underscore.min.js?ver=1.13.4
+File Name: D:\Site\www.casami.eng.br\wp-includes\js\underscore.min.js
+Content Type: application/javascript
+
+Uri: https://www.casami.eng.br/wp-includes/wlwmanifest.xml
+File Name: D:\Site\www.casami.eng.br\wp-includes\wlwmanifest.xml
+Content Type: application/xml
+
+Uri: https://www.googletagmanager.com/gtag/js?id=AW-11024942943
+File Name: D:\Site\www.casami.eng.br\gtag\js
+Content Type: application/javascript
+
